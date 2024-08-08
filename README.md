@@ -1,2 +1,2 @@
-# Basic-Calculator-by-saharsh
+# Basic-Calculator-by-Saharsh
 OASIS-INFOBYTE INTERNSHIP TASKS  |  LEVEL 2  |  WEB DEVELOPMENT AND DESIGNING | 
